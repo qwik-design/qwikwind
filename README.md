@@ -1,15 +1,42 @@
-# Qwik App ⚡️
+<!--lint disable awesome-heading awesome-github awesome-toc double-link -->
 
-- [Qwik Docs](https://qwik.builder.io/)
-- [Discord](https://qwik.builder.io/chat)
-- [Qwik GitHub](https://github.com/BuilderIO/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Vite](https://vitejs.dev/)
-- [Partytown](https://partytown.builder.io/)
-- [Mitosis](https://github.com/BuilderIO/mitosis)
-- [Builder.io](https://www.builder.io/)
+<p align="center">
+  <br>
+  <img width="400" src="./assets/qwikwind.png" alt="logo of awesome-vite repository">
+  <br>
+  <br>
+</p>
 
----
+<h1 align='center'>Awesome QwikWind</h1>
+
+<div align='center'>
+  <a href='https://github.com/BuilderIO/qwik'>Qwik</a> + <a href='https://tailwindcss.com/'>Tailwind</a>
+  <br><br>
+
+  <a href='https://app.netlify.com/sites/qwikwind/deploys'>
+  <img src='https://api.netlify.com/api/v1/badges/c47fd2cc-6210-4812-8c0d-bd9d07509fd7/deploy-status' alt='Awesome'>
+  </a>
+
+</div>
+<br>
+<details>
+<summary>Table of Contents</summary>
+
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [External Resources](#external-resources)
+- [Get Started](#get-started)
+- [Tutorials](#tutorials)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Presentation](#presentation)
+- [Blog Posts](#blog-posts)
+- [Qwik Sites/Projects](#qwik-sitesprojects)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+
+</details>
+
 
 ## Project Structure
 
